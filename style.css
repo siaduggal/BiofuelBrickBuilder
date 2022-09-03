@@ -101,6 +101,16 @@ a{
   padding-right: 5%;
 }
 
+.text2 {
+    font-family: 'Libre Baskerville', serif;
+    text-align: justify;
+    margin: 0;
+    padding-top: 2%;
+    font-size: 25px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
 
 .other{
   text-align: center;
